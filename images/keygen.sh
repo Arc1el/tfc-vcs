@@ -1,0 +1,1 @@
+ssh-keygen -t rsa -b 2048 -f ./keys/key -q -N ""

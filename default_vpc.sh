@@ -1,0 +1,1 @@
+aws ec2 create-default-subnet --availability-zone ap-northeast-2a
